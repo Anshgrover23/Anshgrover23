@@ -1,7 +1,7 @@
 
 # ![github-header-image (1)](https://github.com/user-attachments/assets/04168462-616c-4822-b091-ebf6487f866f)
 
-
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 This is the place where I opensource stuff and break things :rofl:
 
