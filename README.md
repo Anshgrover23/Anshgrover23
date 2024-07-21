@@ -1,6 +1,7 @@
 
+# ![github-header-image (1)](https://github.com/user-attachments/assets/04168462-616c-4822-b091-ebf6487f866f)
 
-# <img src="https://github.com/user-attachments/assets/6348a5fa-9029-41de-9a11-a960355dac68">
+
 
 This is the place where I opensource stuff and break things :rofl:
 
@@ -8,7 +9,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 &nbsp;I’m currently learning Javascript, ReactJs
 - 💬 &nbsp;Ask me about anything related to Javascript/React
 - 👨‍💻 &nbsp;Read more about my projects here.
-<h3>Things I code with</h3>
+# <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
@@ -22,7 +23,7 @@ This is the place where I opensource stuff and break things :rofl:
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-🔗 &nbsp;**Connect with me**
+# 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://x.com/anshgrover938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anshgrover23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
