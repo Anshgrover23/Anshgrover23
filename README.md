@@ -59,6 +59,6 @@ There are more contributions. You can view more of my contributions [here](https
 ## 🏆 Certifications and Achievements
 
 - **Bounty Earned**: $350+ from contributions to the tscircuit organization.
-- ![image](https://github.com/user-attachments/assets/8d2eb6c5-902a-45b1-833b-bb55783c0b50)
+- ![image](https://github.com/user-attachments/assets/aae18f37-b71a-4cb3-bf20-37346268da4e)
 
 ⭐️ From [Anshgrover23](https://github.com/Anshgrover23)
