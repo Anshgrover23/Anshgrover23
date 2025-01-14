@@ -35,6 +35,11 @@ I'm a passionate software developer with a keen interest in web development and 
 
 - Email: ag5989670@gmail.com
 
+## 🏆 Certifications and Achievements
+
+- **Bounty Earned**: 510$+ from contributions to the tscircuit organization.
+- ![image](https://github.com/user-attachments/assets/e010e9fa-4e63-4a1a-92b8-83d7e348d870)
+
 ## 📂 Notable Projects
 
 ### [TODO Server Side](https://github.com/Anshgrover23/todo-app-server-side)
@@ -55,10 +60,5 @@ Here are some of my merged pull requests in the tscircuit organization:
 6. [feat: Detect the number of issues created that have a bounty](https://github.com/tscircuit/contribution-tracker/pull/17)
 
 There are more contributions. You can view more of my contributions [here](https://github.com/search?q=author:Anshgrover23+org:tscircuit+is:pr+is:merged&sort=updated&order=desc).
-
-## 🏆 Certifications and Achievements
-
-- **Bounty Earned**: 460$++ from contributions to the tscircuit organization.
-- ![image](https://github.com/user-attachments/assets/6ff293f3-27a2-4729-b17e-5bc302fbe234)
 
 ⭐️ From [Anshgrover23](https://github.com/Anshgrover23)
