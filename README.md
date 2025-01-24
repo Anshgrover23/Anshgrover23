@@ -37,8 +37,8 @@ I'm a passionate software developer with a keen interest in web development and 
 
 ## 🏆 Certifications and Achievements
 
-- **Bounty Earned**: 510$+ from contributions to the tscircuit organization.
-- ![image](https://github.com/user-attachments/assets/e010e9fa-4e63-4a1a-92b8-83d7e348d870)
+- **Bounty Earned**: 580$+ from contributions to the tscircuit organization.
+- ![image](https://github.com/user-attachments/assets/7ead54c7-c97a-4876-9bf2-22c946dee580)
 
 ## 📂 Notable Projects
 
