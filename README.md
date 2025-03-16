@@ -26,11 +26,6 @@ I'm a passionate software developer with a keen interest in web development and 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## 📈 GitHub Stats
-
-![Anshgrover23's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshgrover23&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshgrover23&layout=compact&theme=radical)
-
 ## 📫 How to reach me
 
 - Email: ag5989670@gmail.com
