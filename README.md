@@ -1,6 +1,3 @@
-
-
-
 # Hi there, I'm Ansh Grover! 👋
 
 ## 🚀 About Me
@@ -12,6 +9,13 @@ I'm a passionate software developer with a keen interest in web development and 
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
   </a>
   
+## 🏆 Bounty Earnings & Achievements
+
+- **Bounty Earned**: *$800+* from contributions to the tscircuit organization.
+- **Algora Profile**: [Check out my bounty earnings on Algora](https://app.algora.io/@/Anshgrover23)
+- **Proof of Earnings**:
+  ![image](https://github.com/user-attachments/assets/e757b240-6d23-419a-8214-782414a44232)
+
 ## 🛠️ Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -30,11 +34,6 @@ I'm a passionate software developer with a keen interest in web development and 
 
 - Email: ag5989670@gmail.com
 
-## 🏆 Certifications and Achievements
-
-- **Bounty Earned**: *800$+* from contributions to the tscircuit organization.
-- ![image](https://github.com/user-attachments/assets/e757b240-6d23-419a-8214-782414a44232)
-
 ## 📂 Notable Projects
 
 ### [TODO Server Side](https://github.com/Anshgrover23/todo-app-server-side)
@@ -47,7 +46,7 @@ A Pokedex application built using React and Vite. It provides a minimal setup to
 
 Here are some of my merged pull requests in the tscircuit organization:
 
-1. [split: footprint-dialog.spec.ts into multiple files](https://github.com/tscircuit/snippets/pull/365) 
+1. [split: footprint-dialog.spec.ts into multiple files](https://github.com/tscircuit/snippets/pull/365)
 2. [fix: Regex to support underscore as well](https://github.com/tscircuit/snippets/pull/351)
 3. [fix: Cmd Click is broken for clicking on snippets](https://github.com/tscircuit/snippets/pull/317)
 4. [Fix: review table](https://github.com/tscircuit/contribution-tracker/pull/13)
@@ -57,3 +56,4 @@ Here are some of my merged pull requests in the tscircuit organization:
 There are more contributions. You can view more of my contributions [here](https://github.com/search?q=author:Anshgrover23+org:tscircuit+is:pr+is:merged&sort=updated&order=desc).
 
 ⭐️ From [Anshgrover23](https://github.com/Anshgrover23)
+
