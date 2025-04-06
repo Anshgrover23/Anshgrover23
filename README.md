@@ -2,12 +2,19 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer with a keen interest in web development and open-source contributions. I enjoy building efficient and scalable applications using modern technologies.
+I'm Ansh Grover, a seasoned developer building scalable web apps with React, Node.js, TypeScript, and PostgreSQL. I engineer robust solutions and drive project success. Let's connect.
 
-<p align='center'>
+  <p align='center'>
   <a href="https://github.com/sponsors/Anshgrover23">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />       
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.buymeacoffee.com/ag5989670p">
+    <img src="https://img.shields.io/badge/-buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
+
+If you enjoy my work, consider sponsoring me or buying me a coffee! Your support helps me keep contributing to open source and developing new projects.
   
 ## 🏆 Bounty Earnings & Achievements
 
@@ -18,10 +25,9 @@ I'm a passionate software developer with a keen interest in web development and 
 
 ## 🛠️ Technologies & Tools
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
