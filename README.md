@@ -59,7 +59,7 @@ Here are some of my merged pull requests in the tscircuit organization:
 5. [feat: added bountied issue amount as a star factor](https://github.com/tscircuit/contribution-tracker/pull/20)
 6. [feat: Detect the number of issues created that have a bounty](https://github.com/tscircuit/contribution-tracker/pull/17)
 
-There are more contributions. You can view more of my contributions [here](https://github.com/search?q=author:Anshgrover23+org:tscircuit+is:pr+is:merged&sort=updated&order=desc).
+There are more contributions. You can view more of my contributions [here](https://www.myprs.xyz/Anshgrover23).
 
 ⭐️ From [Anshgrover23](https://github.com/Anshgrover23)
 
