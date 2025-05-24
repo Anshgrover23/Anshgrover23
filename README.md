@@ -53,7 +53,7 @@ A Pokedex application built using React and Vite. It provides a minimal setup to
 Here are some of my merged pull requests in the tscircuit organization:
 
 1. [split: footprint-dialog.spec.ts into multiple files](https://github.com/tscircuit/snippets/pull/365)
-2. [fix: Regex to support underscore as well](https://github.com/tscircuit/snippets/pull/351)
+2. [Add VLC media player automation example](https://github.com/mediar-ai/terminator/pull/35)
 3. [fix: Cmd Click is broken for clicking on snippets](https://github.com/tscircuit/snippets/pull/317)
 4. [Fix: review table](https://github.com/tscircuit/contribution-tracker/pull/13)
 5. [feat: added bountied issue amount as a star factor](https://github.com/tscircuit/contribution-tracker/pull/20)
