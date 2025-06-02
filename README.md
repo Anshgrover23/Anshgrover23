@@ -18,7 +18,7 @@ If you enjoy my work, consider sponsoring me or buying me a coffee! Your support
   
 ## 🏆 Bounty Earnings & Achievements
 
-- **Bounty Earned**: *$800+* from contributions to the tscircuit organization.
+- **Bounty Earned**: *$999+* from contributions to the tscircuit organization.
 - **Algora Profile**: [Check out my bounty earnings on Algora](https://app.algora.io/@/Anshgrover23)
 - **F*cking money count**:
 ![image](https://github.com/user-attachments/assets/9587e3ab-5aa9-4eda-b439-c77c5174d731)
@@ -52,12 +52,12 @@ A Pokedex application built using React and Vite. It provides a minimal setup to
 
 Here are some of my merged pull requests in the tscircuit organization:
 
-1. [split: footprint-dialog.spec.ts into multiple files](https://github.com/tscircuit/snippets/pull/365)
+1. [add highlight_element fn to show boundary box to know what AI is doing](https://github.com/mediar-ai/terminator/pull/41)
 2. [Add VLC media player automation example](https://github.com/mediar-ai/terminator/pull/35)
-3. [fix: Cmd Click is broken for clicking on snippets](https://github.com/tscircuit/snippets/pull/317)
-4. [Fix: review table](https://github.com/tscircuit/contribution-tracker/pull/13)
-5. [feat: added bountied issue amount as a star factor](https://github.com/tscircuit/contribution-tracker/pull/20)
-6. [feat: Detect the number of issues created that have a bounty](https://github.com/tscircuit/contribution-tracker/pull/17)
+3. [make issue roulette from scratch](https://github.com/tscircuit/issue-roulette/pull/2)
+4. [feat: setup frontend for contribution tracker](https://github.com/tscircuit/contribution-tracker/pull/41)
+5. [add cache to claude-anthropic](https://github.com/tscircuit/contribution-tracker/pull/30)
+6. [Bootstrap project with initial endpoints for simulating posting](https://github.com/tscircuit/fake-reddit/issues/2)
 
 There are more contributions. You can view more of my contributions [here](https://www.myprs.xyz/Anshgrover23).
 
