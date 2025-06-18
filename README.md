@@ -18,7 +18,7 @@ If you enjoy my work, consider sponsoring me or buying me a coffee! Your support
   
 ## 🏆 Bounty Earnings & Achievements
 
-- **Bounty Earned**: *$999+* from contributions to the tscircuit organization.
+- **Bounty Earned**: ***$1099+*** from contributions to the tscircuit organization.
 - **Algora Profile**: [Check out my bounty earnings on Algora](https://app.algora.io/@/Anshgrover23)
 - **F*cking money count**:
 ![image](https://github.com/user-attachments/assets/bf5f50f9-3622-4f74-833d-cd7327ac42e5)
