@@ -18,7 +18,12 @@ If you enjoy my work, consider sponsoring me or buying me a coffee! Your support
   
 ## 🏆 Bounty Earnings & Achievements
 
-- **Bounty Earned**: ***$1099+*** from contributions to the tscircuit organization.
+<p align="center">
+  <strong>🔥 Earned $3500+ solving bounties at <a href="https://anshgrover.me/#experience">antiwork</a> 🔥</strong><br/>
+  <img width="1920" height="211" alt="image" src="https://github.com/user-attachments/assets/d423c286-7f23-496b-bf12-33b0045f53cd" />
+</p>
+
+- **Bounty Earned**: ***$1099+*** from contributions to various organization.
 - **Algora Profile**: [Check out my bounty earnings on Algora](https://app.algora.io/@/Anshgrover23)
 - **F*cking money count**:
 ![image](https://github.com/user-attachments/assets/bf5f50f9-3622-4f74-833d-cd7327ac42e5)
@@ -49,8 +54,11 @@ A server-side application for managing TODO items, built with Node.js, Express.j
 A Pokedex application built using React and Vite. It provides a minimal setup to get React working with Vite.
 
 ## 💼 Contributions
-
-Here are some of my merged pull requests in the tscircuit organization:
+### Here are some of my merged pull requests in the antiwork organization:
+↳ [Merged PRs](https://github.com/antiwork/helper/pulls?q=is%3Apr+author%3AAnshgrover23+is%3Amerged)  
+- Focus: Mailbox redesign (multi-tenant → single-tenant), performance improvements
+  
+### Here are some of my merged pull requests in the tscircuit organization:
 
 1. [add highlight_element fn to show boundary box to know what AI is doing](https://github.com/mediar-ai/terminator/pull/41)
 2. [Add VLC media player automation example](https://github.com/mediar-ai/terminator/pull/35)
