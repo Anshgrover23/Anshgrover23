@@ -1,8 +1,5 @@
-# Hi there, I'm Ansh Grover! 👋
-
 ## 🚀 About Me
-
-I'm Ansh Grover, a seasoned developer building scalable web apps with React, Node.js, TypeScript, and PostgreSQL. I engineer robust solutions and drive project success. Let's connect.
+I'm Ansh Grover 👋 — full-stack developer focusing on TypeScript, testing infrastructure, and developer experience — currently shipping across React, Rust, and Ruby.
 
   <p align='center'>
   <a href="https://github.com/sponsors/Anshgrover23">
@@ -14,13 +11,13 @@ I'm Ansh Grover, a seasoned developer building scalable web apps with React, Nod
   </a>
 </p>
 
-If you enjoy my work, consider sponsoring me or buying me a coffee! Your support helps me keep contributing to open source and developing new projects.
+If you enjoy my work, consider sponsoring me or buying me a coffee! Your support helps me keep contributing to open source.
   
 ## 🏆 Bounty Earnings & Achievements
 
 <p align="center">
-  <strong>🔥 Earned $6000+ solving bounties at <a href="https://anshgrover.me/#experience">antiwork</a> 🔥</strong><br/>
-  <img width="1162" height="246" alt="image" src="https://github.com/user-attachments/assets/e8e9f0f7-9d6d-4c92-8aee-d871fc31e1a5" />
+  <strong>🔥 Earned $8000+ solving bounties at <a href="https://anshgrover.me/#experience">antiwork</a> 🔥</strong><br/>
+  <img width="1159" height="301" alt="image" src="https://github.com/user-attachments/assets/14a5d9da-66fa-40e4-a9b0-d170339c589d" />
 </p>
 
 - **Bounty Earned**: ***$1099+*** from contributions to various organization.
@@ -40,34 +37,4 @@ If you enjoy my work, consider sponsoring me or buying me a coffee! Your support
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-## 📫 How to reach me
-
-- Email: ag5989670@gmail.com
-
-## 📂 Notable Projects
-
-### [TODO Server Side](https://github.com/Anshgrover23/todo-app-server-side)
-A server-side application for managing TODO items, built with Node.js, Express.js, PostgreSQL, and Prisma as the ORM. It also uses JWT for authentication.
-
-### [Pokedex](https://github.com/Anshgrover23/pokedex)
-A Pokedex application built using React and Vite. It provides a minimal setup to get React working with Vite.
-
-## 💼 Contributions
-### Here are some of my merged pull requests in the antiwork organization:
-↳ [Merged PRs](https://github.com/antiwork/helper/pulls?q=is%3Apr+author%3AAnshgrover23+is%3Amerged)  
-- Focus: Mailbox redesign (multi-tenant → single-tenant), performance improvements
-  
-### Here are some of my merged pull requests in the tscircuit organization:
-
-1. [add highlight_element fn to show boundary box to know what AI is doing](https://github.com/mediar-ai/terminator/pull/41)
-2. [Add VLC media player automation example](https://github.com/mediar-ai/terminator/pull/35)
-3. [make issue roulette from scratch](https://github.com/tscircuit/issue-roulette/pull/2)
-4. [feat: setup frontend for contribution tracker](https://github.com/tscircuit/contribution-tracker/pull/41)
-5. [add cache to claude-anthropic](https://github.com/tscircuit/contribution-tracker/pull/30)
-6. [Bootstrap project with initial endpoints for simulating posting](https://github.com/tscircuit/fake-reddit/issues/2)
-
-There are more contributions. You can view more of my contributions [here](https://www.myprs.xyz/Anshgrover23).
-
-⭐️ From [Anshgrover23](https://github.com/Anshgrover23)
 
