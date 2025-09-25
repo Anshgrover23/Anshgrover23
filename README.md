@@ -16,7 +16,7 @@ If you enjoy my work, consider sponsoring me or buying me a coffee! Your support
 ## 🏆 Bounty Earnings & Achievements
 
 <p align="center">
-  <strong>🔥 Earned $8000+ solving bounties at <a href="https://anshgrover.me/#experience">antiwork</a> 🔥</strong><br/>
+  <strong>🔥 Earned $32000+ solving bounties at <a href="https://anshgrover.me/#experience">antiwork</a> 🔥</strong><br/>
   <img width="1159" height="301" alt="image" src="https://github.com/user-attachments/assets/14a5d9da-66fa-40e4-a9b0-d170339c589d" />
 </p>
 
