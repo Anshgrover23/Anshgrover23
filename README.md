@@ -23,7 +23,8 @@ If you enjoy my work, consider sponsoring me or buying me a coffee! Your support
   </a>
 </p>
 
-  <img width="1159" height="301" alt="image" src="https://github.com/user-attachments/assets/14a5d9da-66fa-40e4-a9b0-d170339c589d" />
+  <img width="1220" height="668" alt="image" src="https://github.com/user-attachments/assets/9f996be9-dc0c-4d22-82ed-a2c673b4d308" />
+
 </p>
 
 - **Bounty Earned**: ***$1099+*** from contributions to various organization.
